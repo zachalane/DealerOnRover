@@ -1,0 +1,14 @@
+Mars Rover DealerOn solution.
+
+Launch the WinForms app to execute the command. App allows user to enter their own data on the left hand side of the form. 
+
+Bounds and Current Location group box items allow user to type in/select their data.
+
+Commands group box allows the user to click the buttons to build the string for the movement instructions.
+
+When all fields are complete, select send to execute the program. 
+
+Right hand side of Form shows the results of the command. 
+
+Alternatively, select the "test 1" or "test 2" buttons on the top left hand side to preload the test conditions, then select send. 
+
